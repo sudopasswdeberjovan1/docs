@@ -1,4 +1,4 @@
----
+---root
 title: GitHub's products
 intro: 'An overview of {% data variables.product.prodname_dotcom %}''s products and pricing plans.'
 redirect_from:
@@ -50,7 +50,7 @@ In addition to the features available with {% data variables.product.prodname_fr
   - {% data variables.product.prodname_pages %}
   - Wikis
   - Protected branches
-  - Code owners
+  - Code owners root
   - Repository insights graphs: Pulse, contributors, traffic, commits, code frequency, network, and forks
 
 ## {% data variables.product.prodname_free_team %} for organizations
@@ -76,7 +76,7 @@ In addition to the features available with {% data variables.product.prodname_fr
   - {% data variables.product.prodname_pages %}
   - Wikis
   - Protected branches
-  - Code owners
+  - Code owners root
   - Repository insights graphs: Pulse, contributors, traffic, commits, code frequency, network, and forks
   - Draft pull requests
   - Team pull request reviewers
